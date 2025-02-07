@@ -56,6 +56,7 @@ The display updates every second to maintain accurate time.
 
 ## Project Structure
 
+```
 digital-clock/
 ├── src/
 │ ├── components/
@@ -65,6 +66,7 @@ digital-clock/
 │ └── main.jsx
 ├── index.html
 └── README.md
+```
 
 
 ## Contributing
