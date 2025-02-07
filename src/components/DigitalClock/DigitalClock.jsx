@@ -26,7 +26,7 @@ const DigitalClock = () => {
 
                 <div className='flex justify-center items-center'>
                     <div className=' text-4xl font-bold'>
-                        <span id='time' className='text-8xl font-bold'>{time}</span>
+                        <span id='time' className='text-7xl font-bold'>{time}</span>
                         {/* <span id='ampm' className='text-4xl font-bold'>{ampm}</span> */}
                     </div>
                 </div>
